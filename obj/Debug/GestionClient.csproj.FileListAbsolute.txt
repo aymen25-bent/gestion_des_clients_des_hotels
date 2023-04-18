@@ -1,0 +1,7 @@
+C:\Users\Ayoub\source\repos\GestionClient\GestionClient\bin\Debug\GestionClient.exe.config
+C:\Users\Ayoub\source\repos\GestionClient\GestionClient\bin\Debug\GestionClient.exe
+C:\Users\Ayoub\source\repos\GestionClient\GestionClient\bin\Debug\GestionClient.pdb
+C:\Users\Ayoub\source\repos\GestionClient\GestionClient\obj\Debug\GestionClient.csprojAssemblyReference.cache
+C:\Users\Ayoub\source\repos\GestionClient\GestionClient\obj\Debug\GestionClient.csproj.CoreCompileInputs.cache
+C:\Users\Ayoub\source\repos\GestionClient\GestionClient\obj\Debug\GestionClient.exe
+C:\Users\Ayoub\source\repos\GestionClient\GestionClient\obj\Debug\GestionClient.pdb
